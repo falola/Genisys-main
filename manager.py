@@ -20,8 +20,8 @@ def banner():
     f = pyfiglet.Figlet(font='slant')
     banner = f.renderText('Genisys')
     print(f'{random.choice(colors)}{banner}{n}')
-    print(r+'  Version: 2.5 | Author: Cryptonian'+n+'\n')
-#print('Author: github.com/Cryptonian007\n')
+    print(r+'  Version: 2.5 | Author: D-Falo'+n+'\n')
+#print('Author: github.com/falola\n')
 #sleep(4)
 
 def clr():
