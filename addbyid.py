@@ -29,7 +29,7 @@ def banner():
     logo = f.renderText('Genisys')
     print(random.choice(colors) + logo + rs)
     print(f'{info}{g} Genisys Adder[ID] V2.5{rs}')
-    print(f'{info}{g} Author: github.com/Cryptonian007{rs}\n')
+    print(f'{info}{g} Author: github.com/falola{rs}\n')
 def clscreen():
     os.system('cls')
 clscreen()
